@@ -23,8 +23,3 @@ function App() {
 }
 
 export default App;
-
-// this is a comment
-// This is the second comment
-// This is the third comment
-// this is the fourth comment
